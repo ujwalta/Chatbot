@@ -1,7 +1,5 @@
 🤖 Local AI Chatbot (LLaMA 3)
 
-Day 23 of #30Days30Projects Challenge
-
 This project is a local AI chatbot built using LLaMA 3, Ollama, LangChain, and Streamlit. It can chat with context, remembering previous messages, and runs entirely locally — no API keys needed.
 
 🛠️ Features
